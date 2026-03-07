@@ -20,6 +20,7 @@ A technical PDF guide explaining how to set up and optimize an AI Agent on the O
 1. [x] Draft all 5 Chapters.
 2. [x] Build minimal Landing Page.
 3. [x] Clean and Push Repository (Bypass Secret Protection) ✅
-4. [ ] Finalize Gumroad Product (Manual UI completion required).
-5. [ ] Connect GitHub repo to Vercel for auto-deployment.
-6. [ ] First Test Purchase.
+4. [x] Finalize Gumroad Product (Live at /l/ujgrn) ✅
+5. [x] Connect GitHub repo to Vercel for auto-deployment ✅
+6. [x] Official Launch on X (@davisarce79 + @AgentGunna) ✅
+7. [ ] First Sale / Test Purchase Verification.
