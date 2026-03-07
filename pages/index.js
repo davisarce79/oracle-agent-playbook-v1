@@ -12,7 +12,7 @@ export default function LandingPage() {
           The ultimate playbook for building revenue-generating AI agents on the Oracle Cloud Free Tier.
         </p>
         <div className="flex justify-center gap-4">
-          <a href="https://agentgunna.gumroad.com/l/playbook" className="px-8 py-4 bg-cyan-600 hover:bg-cyan-500 rounded-full font-bold text-lg transition-all shadow-lg shadow-cyan-900/20">
+          <a href="https://agentgunna.gumroad.com/l/ujgrn" className="px-8 py-4 bg-cyan-600 hover:bg-cyan-500 rounded-full font-bold text-lg transition-all shadow-lg shadow-cyan-900/20">
             Get the Playbook — $19
           </a>
         </div>
