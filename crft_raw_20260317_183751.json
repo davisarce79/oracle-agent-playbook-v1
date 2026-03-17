@@ -1,0 +1,16 @@
+{
+  "technologies": [
+    {
+      "name": "cloudflare",
+      "category": "server"
+    },
+    {
+      "name": "Cloudflare",
+      "category": "cdn"
+    }
+  ],
+  "performance": null,
+  "meta_tags": null,
+  "sitemap": null,
+  "source": "fallback"
+}

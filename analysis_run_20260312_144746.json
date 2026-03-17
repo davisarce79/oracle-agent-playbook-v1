@@ -1,0 +1,106 @@
+{
+  "AGNC": {
+    "signal": "BUY",
+    "analysis": {
+      "symbol": "AGNC",
+      "date": "2026-03-12",
+      "current_price": 10.67,
+      "indicators": {
+        "RSI": 27.89,
+        "MACD_hist": -0.062,
+        "Fib_618": 10.97,
+        "Kijun": 10.9,
+        "Cloud_top": 10.82,
+        "Cloud_bot": 10.82
+      },
+      "confluence_score": 2,
+      "reasons": [
+        "Price in Fib 61.8% \u00b15% zone",
+        "RSI=27.9 (oversold/ recovering)"
+      ],
+      "recommendation": "BUY",
+      "confidence_pct": 50.0,
+      "trade_parameters": {
+        "entry": 10.97,
+        "take_profit": 10.99,
+        "stop_loss": 10.71,
+        "position_size_pct": 5
+      },
+      "data_source": "alphavantage"
+    },
+    "current_position": [
+      1000,
+      10.4699
+    ]
+  },
+  "DX": {
+    "signal": "BUY",
+    "analysis": {
+      "symbol": "DX",
+      "date": "2026-03-12",
+      "current_price": 13.53,
+      "indicators": {
+        "RSI": 30.65,
+        "MACD_hist": -0.043,
+        "Fib_618": 13.62,
+        "Kijun": 13.52,
+        "Cloud_top": 13.87,
+        "Cloud_bot": 13.5
+      },
+      "confluence_score": 3.5,
+      "reasons": [
+        "Price in Fib 61.8% \u00b15% zone",
+        "RSI=30.6 (oversold/ recovering)",
+        "MACD hist=-0.043 (bullish/neutral)",
+        "Price above cloud support"
+      ],
+      "recommendation": "BUY",
+      "confidence_pct": 87.5,
+      "trade_parameters": {
+        "entry": 13.62,
+        "take_profit": 13.94,
+        "stop_loss": 13.36,
+        "position_size_pct": 5
+      },
+      "data_source": "alphavantage"
+    },
+    "current_position": [
+      500,
+      13.405
+    ]
+  },
+  "NVDA": {
+    "signal": "HOLD",
+    "analysis": {
+      "symbol": "NVDA",
+      "date": "2026-03-12",
+      "current_price": 186.03,
+      "indicators": {
+        "RSI": 48.16,
+        "MACD_hist": -0.165,
+        "Fib_618": 185.51,
+        "Kijun": 184.33,
+        "Cloud_top": 184.33,
+        "Cloud_bot": 182.73
+      },
+      "confluence_score": 1.5,
+      "reasons": [
+        "Price in Fib 61.8% \u00b15% zone",
+        "Price above cloud support"
+      ],
+      "recommendation": "HOLD",
+      "confidence_pct": 50,
+      "trade_parameters": {
+        "entry": 185.51,
+        "take_profit": 191.61,
+        "stop_loss": 180.9,
+        "position_size_pct": 5
+      },
+      "data_source": "alphavantage"
+    },
+    "current_position": [
+      100,
+      182.5
+    ]
+  }
+}

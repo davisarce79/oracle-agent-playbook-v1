@@ -1,0 +1,5 @@
+# Python dependencies for duckduckgo-search skill
+ddgs>=9.0.0
+
+# Note: This replaces the older duckduckgo-search package.
+# Install with: pip install ddgs

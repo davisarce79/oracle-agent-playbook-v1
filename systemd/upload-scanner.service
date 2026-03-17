@@ -1,0 +1,16 @@
+[Unit]
+Description=Agent Gunna Upload Scanner
+After=network.target
+
+[Service]
+Type=simple
+User=opc
+WorkingDirectory=/home/opc/.openclaw/workspace
+ExecStart=/usr/bin/python3 /home/opc/.openclaw/workspace/upload_scanner.py
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

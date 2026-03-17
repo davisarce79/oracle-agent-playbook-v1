@@ -1,0 +1,36 @@
+{
+  "stack": {
+    "frontend": "Next.js (App Router)",
+    "styling": "Tailwind CSS",
+    "language": "TypeScript",
+    "hosting": "Vercel (recommended for Next.js)",
+    "cms": null,
+    "cdn": "cloudflare",
+    "analytics": [],
+    "performance_target": null
+  },
+  "project_structure": {
+    "app/": [
+      "layout.tsx",
+      "page.tsx",
+      "components/",
+      "lib/"
+    ],
+    "public/": [
+      "images/",
+      "favicon.ico"
+    ],
+    "styles/": [
+      "globals.css"
+    ],
+    "package.json": "",
+    "tsconfig.json": "",
+    "next.config.js": "",
+    "tailwind.config.js": "",
+    ".env.local": "",
+    "README.md": "",
+    ".gitignore": ""
+  },
+  "estimated_effort_days": 3,
+  "notes": "Based on analysis of https://claude.ai/chat/3b038184-5d9b-4195-90af-91eb7fea4159. Detected technologies: cloudflare, Cloudflare"
+}

@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+
+# Node.js
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs & data
+*.log
+*.sqlite
+.media/
+
+# Credentials & secrets
+.openclaw/credentials/
+*.pem
+*.key
+secrets/
+client_secret_*.json
+client_secret.json
+
+# Temporary files
+tmp/
+temp/
+scratch/
+.cache/
+
+# Build artifacts
+*.zip
+*.tar.gz
+*.tgz
+
+# Large binaries / assets
+CodexBarCLI
+*.exe
+*.dmg
+*.iso
+
+# Memory uploads (large binary assets)
+memory/uploads/*
+memory/scanned_uploads/*
+
+# Generated scaffolds (can be recreated)
+vibe-clone/
+claude-clone/
+build-deploy/
+
+# Upload scanner state
+.upload_scanner_state.json
+
+# Specific to this workspace
+# (Add any other patterns we want to exclude)

@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "skills": {
+    "discord": {
+      "version": "1.0.1",
+      "installedAt": 1773008523907
+    },
+    "openai-image-gen": {
+      "version": "1.0.1",
+      "installedAt": 1773008526178
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1773008529696
+    },
+    "stripe": {
+      "version": "2.3.2",
+      "installedAt": 1773009914644
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1773018305342
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1773018307578
+    },
+    "sag": {
+      "version": "1.0.0",
+      "installedAt": 1773018310002
+    },
+    "things-mac": {
+      "version": "1.0.0",
+      "installedAt": 1773018313581
+    },
+    "himalaya": {
+      "version": "1.0.0",
+      "installedAt": 1773024549601
+    },
+    "gemini": {
+      "version": "1.0.0",
+      "installedAt": 1773024602634
+    },
+    "xurl": {
+      "version": "1.0.0",
+      "installedAt": 1773128304559
+    }
+  }
+}
