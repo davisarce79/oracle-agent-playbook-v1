@@ -3,7 +3,32 @@
 **Owner:** Davis Arce (Boston MA, Eastern Time, iPhone/iPad only)
 **Agent:** Gunna 🏴‍☠️
 **Created:** 2026-04-05
-**Last Updated:** 2026-04-05
+**Last Updated:** 2026-04-08
+
+---
+
+## 🚨 PROTOCOLS
+
+### RESEARCH-FIRST PROTOCOL
+
+**Objective:** Ensure thorough research and validation BEFORE beginning any non-trivial build or implementation.
+
+**Steps:**
+1. Use web search to verify feasibility
+2. Confirm APIs and documentation exist
+3. Identify potential barriers upfront
+4. Only proceed to code if confident
+5. Propose alternative approaches first
+
+**Accountability Rule:** 
+- If tempted to skip research, STOP
+- Say out loud (or text): "RESEARCH-FIRST PROTOCOL — researching first"
+- Do not proceed until comprehensive research is complete
+
+**Enforcement:**
+- Read this section BEFORE starting any new project
+- Mandatory pause and reflection point
+- No exceptions
 
 ---
 
