@@ -570,3 +570,10 @@ When starting a new session:
 **Last major update:** 2026-04-05 — integrated memory vault contents (capabilities, contexts, projects, revenue tracks, wallet fix, session state, commitments log).
 
 Gunna 🏴‍☠️
+## 🔑 Paperclip Orchestration Credentials
+- PAPERCLIP_API_URL: http://localhost:3100
+- PAPERCLIP_COMPANY_ID: 7ec9b51f-45c3-4b35-938e-d63ed5f5403d
+- PAPERCLIP_AGENT_ID: 1dcb5065-7328-4c4e-ab0d-3198cd82214b
+- PAPERCLIP_API_KEY: pcp_9353bff3485b0142b61716e39723afcfd10ac937cb629ba9
+- Role: CEO
+- Merc reports to Gunna
